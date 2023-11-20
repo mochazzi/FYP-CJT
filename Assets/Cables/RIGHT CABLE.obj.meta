@@ -8,67 +8,67 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ;AYER_1Mat
-    second: {fileID: -3405300590272871163, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: -3405300590272871163, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: LAYER_2Mat
-    second: {fileID: 4748143132917552832, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 4748143132917552832, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: LAYER_3Mat
-    second: {fileID: -847212247523074318, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: -847212247523074318, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: LAYER_5Mat
-    second: {fileID: -3720584995342435302, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: -3720584995342435302, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Solid1Mat
-    second: {fileID: 8082248098413351132, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 8082248098413351132, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Solid1_1Mat
-    second: {fileID: 8082248098413351132, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 8082248098413351132, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Solid1_2Mat
-    second: {fileID: 8082248098413351132, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 8082248098413351132, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Solid2Mat
-    second: {fileID: 8082248098413351132, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 8082248098413351132, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Solid2_1Mat
-    second: {fileID: 8082248098413351132, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 8082248098413351132, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Solid2_2Mat
-    second: {fileID: 8082248098413351132, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: 8082248098413351132, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: WIREMat
-    second: {fileID: -1917901905875185711, guid: 69da61447ea702b4cb533e0a047af5b3,
+    second: {fileID: -1917901905875185711, guid: 619f0d0e17d40e245a4711a5227ae345,
       type: 3}
   materials:
     materialImportMode: 1

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using EzySlice; //Asset from https://github.com/DavidArayan/ezy-slice
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
-public class CutCable : MonoBehaviour
+public class CutCables : MonoBehaviour
 {
     public Transform startSlice;
     public Transform endSlice;
@@ -47,6 +48,8 @@ public class CutCable : MonoBehaviour
 
             GameObject lowerHull = hull.CreateLowerHull(target, crossSectionMaterial);
             SetupSlicedCable(lowerHull);
+
+            // global::System.Object value = target.setActive(false);
 
             //Destroy(target);
         }
